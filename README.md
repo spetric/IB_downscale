@@ -23,7 +23,7 @@ Note:
 Image is scaled proportionally. To downscale image with separated width/height scales, please modify the source code.        
 ## Testing
 Configuration: Intel Core i5-7400 CPU @ 3.00GHz, 1GB RAM.  
-Os: Windows 10.
+Os: Windows 10.  
 Program build: Visual Studio 2017, x86 (32-bit), release mode.  
 Source image (12000x12000): https://eoimages.gsfc.nasa.gov/images/imagerecords/78000/78314/VIIRS_3Feb2012_lrg.jpg
 <table>
