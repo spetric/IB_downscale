@@ -1,7 +1,7 @@
 
 //---------------------------------------------------------------------------
 // Integer based image downscaling with subpixel accuracy
-// Siniöa PetriÊ
+// Sini≈°a Petri√¶
 //---------------------------------------------------------------------------
 #include "pch.h"
 #include <iostream>
@@ -116,7 +116,7 @@ for (yi = yi_start; yi < yi_end; yi++)
 	   cumulY[2][xoc] += (outVal[2]>>shift)*yContrib;
 	   if (outY)
 		  {
-		  outPixel = imgOut.ptr<Vec3b>(y); // point to first pixel in row (output)
+		  //outPixel = imgOut.ptr<Vec3b>(y); // point to first pixel in row (output)
 		  // done - output pixel
 		  outPixel[x][0] = (Byte)(cumulY[0][xoc] >>shift);
 		  outPixel[x][1] = (Byte)(cumulY[1][xoc] >>shift);
