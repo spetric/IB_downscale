@@ -2,7 +2,8 @@
 ## Description
 Fast image downscaling using integer based arithmetics, described in article:  
 https://sigmapi-design.com/media/fast_box_filter.pdf  
-Original code uses custom image container. I have modified the code to suite OpenCV Mat, but did not make any further optimization. There is still lot of space for optimization and modifications for differnet types of image containers.
+Original code uses custom image container. I have modified the code to suite OpenCV Mat, but did not make any further optimization. There is still lot of space for optimization and modifications for differnet types of image containers.  
+Also, the similar algorithm (just inverted) can be used for image upscaling.
 ## Required
 - C++ compiler (tested on Visual Studio 2017) 
 - OpenCV
