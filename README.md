@@ -74,7 +74,7 @@ Source image (12000x12000): https://eoimages.gsfc.nasa.gov/images/imagerecords/7
 © Siniša Petrić, www.sigmapi-design.com, MIT license.
 
 ## Reference
-[1] Petrić S., FastBox Filter with Subpixel Accuracy. Sigmapi-Design Paperology (2017).
+[1] Petrić S., Fast Box Filter with Subpixel Accuracy. Sigmapi-Design Paperology (2017).
 
 
 
