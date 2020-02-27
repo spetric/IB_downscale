@@ -1,4 +1,4 @@
-# IB_downscale
+# Integer Based Image Downscaling with Subpixel Accuracy
 ## Description
 Fast image downscaling using integer based arithmetics, described in article:  
 https://sigmapi-design.com/media/fast_box_filter.pdf
