@@ -1,7 +1,8 @@
 # Integer Based Image Downscaling with Subpixel Accuracy
 ## Description
 Fast image downscaling using integer based arithmetics, described in article:  
-https://sigmapi-design.com/media/fast_box_filter.pdf
+https://sigmapi-design.com/media/fast_box_filter.pdf  
+Original code uses custom image container. I have modified the code to suite OpenCV Mat, but did not make any further optimization. There is still lot of space for optimization and modifications for differnet types of image containers.
 ## Required
 - C++ compiler (tested on Visual Studio 2017) 
 - OpenCV
