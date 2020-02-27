@@ -1,6 +1,6 @@
 # IB_downscale
 ## Description
-Fast image downscaling using integer based arithmetics, described in article:
+Fast image downscaling using integer based arithmetics, described in article:  
 https://sigmapi-design.com/media/fast_box_filter.pdf
 ## Required
 - C++ compiler (tested on Visual Studio 2017) 
