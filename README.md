@@ -18,6 +18,8 @@ Arguments;
 Example:
 
       capDownScale VIIRS_3Feb2012_lrg.jpg 17     
+Note:  
+Image is scaled proportionally. To downscale image with separated width/height scales, please modify the source code.        
 ## Testing
 Configuration: Intel Core i5-7400 CPU @ 3.00GHz, 1GB RAM.  
 Os: Windows 10.
