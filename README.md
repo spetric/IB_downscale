@@ -20,7 +20,7 @@ Example:
       capDownScale VIIRS_3Feb2012_lrg.jpg 17     
 ## Testing
 Configuration: Intel Core i5-7400 CPU @ 3.00GHz, 1GB RAM.  
-Program build: Visual Studio 2017, x32, debug mode.  
+Program build: Visual Studio 2017, 32-bit, release mode.  
 Source image (12000x12000): https://eoimages.gsfc.nasa.gov/images/imagerecords/78000/78314/VIIRS_3Feb2012_lrg.jpg
 <table>
  <tr>
@@ -51,22 +51,22 @@ Source image (12000x12000): https://eoimages.gsfc.nasa.gov/images/imagerecords/7
    Duration (sec)
   </td>
   <td>
-   14.97
+   0.633
   </td>
   <td>
-   11.171
+   0.47
   </td>
   <td>
-   9.452
+   0.452
   </td>
   <td>
-   9.716
+   0.429
   </td>
   <td>
-   8.947
+   0.453
   </td>
   <td>
-   8.834
+   0.427
   </td>
  </tr>
 </table>
